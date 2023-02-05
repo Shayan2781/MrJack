@@ -1,0 +1,5 @@
+8 gray
+9 blue
+12 red
+14 yellow
+15 white

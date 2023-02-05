@@ -1,0 +1,103 @@
+# depslib dependency file v1.0
+1642523006 source:c:\users\user\desktop\desk\- c - codeblocks\mr.jack\mr.jack\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Welcomer_Lobby.h"
+	"Setup_New_Game.h"
+	"Game_Elements.h"
+	"Map.h"
+
+1642512457 c:\users\user\desktop\desk\- c - codeblocks\mr.jack\mr.jack\welcomer_lobby.h
+	<conio.h>
+	<time.h>
+	<string.h>
+	<windows.h>
+
+1642428941 source:c:\users\user\desktop\desk\- c - codeblocks\mr.jack\mr.jack\welcomer_lobby.c
+
+1642523063 c:\users\user\desktop\desk\- c - codeblocks\mr.jack\mr.jack\setup_new_game.h
+	"Game_Elements.h"
+	<time.h>
+	<stdlib.h>
+
+1642505706 c:\users\user\desktop\desk\- c - codeblocks\mr.jack\mr.jack\game_elements.h
+	<string.h>
+
+1642509283 c:\users\user\desktop\desk\- c - codeblocks\mr.jack\mr.jack\map.h
+	<stdio.h>
+	<stdlib.h>
+
+1643973199 source:c:\users\user\desktop\desk\- c - final project term 1\mr.jack\mr.jack\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"Welcomer_Lobby.h"
+	"Setup_New_Game.h"
+	"Game_Elements.h"
+	"Play_Game.h"
+	"File_Func.h"
+
+1643107724 c:\users\user\desktop\desk\- c - final project term 1\mr.jack\mr.jack\welcomer_lobby.h
+	<conio.h>
+	<time.h>
+	<string.h>
+	<windows.h>
+
+1643105752 c:\users\user\desktop\desk\- c - final project term 1\mr.jack\mr.jack\setup_new_game.h
+	"Game_Elements.h"
+	"File_Func.h"
+	<time.h>
+	<stdlib.h>
+
+1643044626 c:\users\user\desktop\desk\- c - final project term 1\mr.jack\mr.jack\game_elements.h
+	<string.h>
+	<windows.h>
+
+1642509283 c:\users\user\desktop\desk\- c - final project term 1\mr.jack\mr.jack\map.h
+	<stdio.h>
+	<stdlib.h>
+
+1643276008 c:\users\user\desktop\desk\- c - final project term 1\mr.jack\mr.jack\play_game.h
+	"Game_Elements.h"
+	"File_Func.h"
+	<string.h>
+
+1643106128 c:\users\user\desktop\desk\- c - final project term 1\mr.jack\mr.jack\file_func.h
+	"Setup_New_Game.h"
+
+1643969599 source:c:\users\user\desktop\shayan\- c - final project term 1\mr.jack\mr.jack\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"Welcomer_Lobby.h"
+	"Setup_New_Game.h"
+	"Game_Elements.h"
+	"Play_Game.h"
+	"File_Func.h"
+
+1643104124 c:\users\user\desktop\shayan\- c - final project term 1\mr.jack\mr.jack\welcomer_lobby.h
+	<conio.h>
+	<time.h>
+	<string.h>
+	<windows.h>
+
+1643102152 c:\users\user\desktop\shayan\- c - final project term 1\mr.jack\mr.jack\setup_new_game.h
+	"Game_Elements.h"
+	"File_Func.h"
+	<time.h>
+	<stdlib.h>
+
+1643041026 c:\users\user\desktop\shayan\- c - final project term 1\mr.jack\mr.jack\game_elements.h
+	<string.h>
+	<windows.h>
+
+1675593215 c:\users\user\desktop\shayan\- c - final project term 1\mr.jack\mr.jack\file_func.h
+	"Setup_New_Game.h"
+
+1675593134 c:\users\user\desktop\shayan\- c - final project term 1\mr.jack\mr.jack\play_game.h
+	"Game_Elements.h"
+	"File_Func.h"
+	<string.h>
+

@@ -1,0 +1,4 @@
+house = 254
+L = 221, 14 yellow
+hole = 234
+closed hole = 237
